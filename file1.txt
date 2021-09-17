@@ -1,3 +1,5 @@
 this is a Apple
 
 hello
+
+her denemyi github otomatik aliyor
